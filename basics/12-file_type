@@ -1,2 +1,2 @@
-#!/bin/boot
+#!/bin/bash
 file -v /tmp/iamafile
