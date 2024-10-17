@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f | ls -l --sort=time
+find . -type f | ls -l --sort=time | head -11
